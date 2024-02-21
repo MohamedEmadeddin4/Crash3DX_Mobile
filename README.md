@@ -22,6 +22,3 @@ Optimized for performance on mobile devices.
 ```bash
 git clone https://github.com/MohamedEmadeddin4/Crash3DX_Mobile.git
 
-
-https://github.com/MohamedEmadeddin4/Crash3DX_Mobile/assets/99551637/177cf729-8c40-4986-a34a-03864e97ca0c
-
