@@ -21,6 +21,3 @@ Optimized for performance on mobile devices.
 
 ```bash
 git clone https://github.com/MohamedEmadeddin4/Crash3DX_Mobile.git
-
----------------Video-----------------
-![VID_20240221174422-ezgif com-video-to-gif-converter (1)](https://github.com/MohamedEmadeddin4/Crash3DX_Mobile/assets/99551637/a671f84a-b9cc-47d1-833d-07e0487b92ed)
