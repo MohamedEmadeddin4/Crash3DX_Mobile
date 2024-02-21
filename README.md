@@ -20,4 +20,4 @@ Optimized for performance on mobile devices.
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/Crash3DX.git
+git clone https://github.com/MohamedEmadeddin4/Crash3DX_Mobile.git
